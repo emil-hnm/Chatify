@@ -1,12 +1,12 @@
-<rss version="1.6">
+<rss version="1.2">
   <channel>
     <title>Chatify</title>
 
     <item>
-      <title>Version 1.6</title>
-      <version>1.6</version>
-      <url>https://github.com/emil-hnm/Chatify/raw/refs/heads/main/mysetupV2.exe</url>
-      <description>V16</description>
+      <title>Version 1.2</title>
+      <version>1.2</version>
+      <url>https://github.com/emil-hnm/Chatify/raw/refs/heads/main/mysetup.exe</url>
+      <description>V12</description>
     </item>
 
   </channel>
