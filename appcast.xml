@@ -1,0 +1,13 @@
+<rss version="1.5">
+  <channel>
+    <title>Chatify</title>
+
+    <item>
+      <title>Version 1.0</title>
+      <version>1.0.0</version>
+      <url>https://raw.githubusercontent.com/emil-hnm/Chatify/main/setupV15.exe</url>
+      <description>V15</description>
+    </item>
+
+  </channel>
+</rss>
