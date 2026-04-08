@@ -1,1 +1,1 @@
-1.2.0|https://github.com/emil-hnm/Chatify/raw/refs/heads/main/mysetup.exe
+1.2.1|https://github.com/emil-hnm/Chatify/raw/refs/heads/main/mysetup.exe
